@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/merabetmohamedmalih/myportfolio/issues"
   },
-  "homepage": "https://github.com/merabetmohamedmalih/myportfolio#readme"
+  "homepage": "https://github.com/merabetmohamedmalih/myportfolio#readme",
+  "devDependencies": {
+    "netlify-cli": "^6.9.18"
+  }
 }
